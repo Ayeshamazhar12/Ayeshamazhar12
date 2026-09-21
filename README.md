@@ -1,70 +1,196 @@
-Hi, I'm Ayesha Mazhar
+# Ayesha Mazhar
 
- IT Student | Python | AI & Web developer | Generative AI
+### Python Developer | AI/ML Developer | AI Automation
 
-I'm interested in Artificial Intelligence, Machine Learning, Generative AI, Python, and Web Development.
-Currently learning, building projects, and exploring AI-powered solutions.
+I build practical software solutions using Python, Machine Learning, AI, and modern web technologies.
 
- Technologies
+My focus is on turning ideas into functional projects — from predictive machine learning systems and AI applications to automation tools and interactive web apps.
 
-Programming & Web Development
+---
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## About Me
 
-Frameworks & Apps
+* Python developer focused on AI, Machine Learning, and automation
+* Building practical projects with Python, Streamlit, Flask, and AI APIs
+* Interested in Generative AI, RAG systems, AI agents, and intelligent automation
+* Experienced with developing and deploying machine learning applications
+* Continuously improving my programming, software development, and AI engineering skills
 
-"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-"Streamlit" (https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+---
 
-AI & Machine Learning
+## Tech Stack
 
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Scikit-learn" (https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-"Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### Programming
 
-Tools
+`Python` `JavaScript` `HTML` `CSS`
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### AI & Machine Learning
 
- Projects
+`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Joblib`
 
--  AI Real Estate Price Prediction
--  Smart AI Traffic Control System
--  Streamlit Email Extractor
--  Stock Portfolio Tracker
--  Customer Churn Prediction
+### AI Development
 
- Activities
+`Generative AI` `LLM APIs` `RAG` `AI Agents` `Prompt Engineering`
 
--  Participated in AI & technology hackathons
--  Built AI and machine learning projects
--  Collaborated on team-based technology projects
+### Frameworks & Tools
 
- Currently Learning
+`Streamlit` `Flask` `Gradio` `Jupyter Notebook` `Git` `GitHub`
 
-Machine Learning → Generative AI → AI Applications → AI Automation
+### Deployment
 
- Connect With Me
+`Hugging Face Spaces` `Streamlit` `GitHub`
 
-"LinkedIn" [(YOUR_LINKEDIN)](https://www.linkedin.com/in/ayesha-mazhar-6a962a336/) • "Portfolio" (YOUR_PORTFOLIO)
+---
 
- Always learning. Always building.
+## Featured Projects
 
-I'm always interested in:
+### SmartAI Traffic Control System
 
--  AI & technology projects
--  Collaboration
--  Hackathons
--  Learning opportunities
--  Internships & projects
+An AI-powered traffic management system designed to simulate intelligent traffic monitoring and signal optimization.
 
-Thanks for visiting my profile! 
+**Key Features**
+
+* Vehicle detection and traffic monitoring
+* Traffic prediction
+* Intelligent signal timing
+* Emergency vehicle priority
+* Accident alert simulation
+* Traffic analytics dashboard
+* Interactive Streamlit interface
+
+**Built With:** Python, Computer Vision, Machine Learning, Streamlit
+
+---
+
+### Real Estate Price Prediction
+
+A machine learning regression project that predicts property prices based on housing features.
+
+**Key Features**
+
+* Data preprocessing and feature engineering
+* Exploratory data analysis
+* Linear Regression baseline
+* Random Forest regression
+* Model evaluation using R² and RMSE
+* Saved trained machine learning model
+
+**Built With:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+
+---
+
+### Customer Churn Prediction
+
+A machine learning classification application that predicts whether a customer is likely to leave a service.
+
+**Key Features**
+
+* Customer data preprocessing
+* Categorical feature encoding
+* Feature scaling
+* Class imbalance handling
+* Random Forest classification
+* Interactive Streamlit prediction interface
+
+**Built With:** Python, Pandas, Scikit-learn, Joblib, Streamlit
+
+---
+
+### Streamlit Email Extractor
+
+A web-based utility that extracts email addresses from user-provided text and presents the results in an easy-to-use interface.
+
+**Built With:** Python, Regular Expressions, Streamlit
+
+---
+
+### Stock Portfolio Tracker
+
+A Python-based application designed to help users monitor and organize stock portfolio information through an interactive interface.
+
+**Built With:** Python, Streamlit, Data Processing
+
+---
+
+## What I'm Currently Learning
+
+```text
+Python Development
+Machine Learning
+Generative AI
+RAG Applications
+AI Agents
+LLM Integration
+Web Development
+API Integration
+Deployment
+Software Development Best Practices
+```
+
+---
+
+## Development Approach
+
+I believe in learning by building.
+
+Instead of only studying concepts, I focus on creating projects that solve practical problems. My development process usually involves:
+
+```text
+Idea
+  |
+  v
+Research
+  |
+  v
+Data / Requirements
+  |
+  v
+Development
+  |
+  v
+Testing
+  |
+  v
+Deployment
+  |
+  v
+Documentation
+```
+
+---
+
+## GitHub Goals
+
+I am building my GitHub profile as a portfolio of practical development and AI projects.
+
+My goal is to create projects that demonstrate:
+
+* Clean and maintainable Python code
+* Practical machine learning implementations
+* Useful AI-powered applications
+* Interactive user interfaces
+* Real-world problem solving
+* Proper project structure and documentation
+* Deployment-ready applications
+
+---
+
+## Let's Connect
+
+I am open to collaborating on Python, AI, Machine Learning, automation, and web development projects.
+
+**GitHub:** [github.com/Ayeshamazhar12](https://github.com/Ayeshamazhar12)
+
+---
+
+## Current Focus
+
+```text
+Building
+Learning
+Experimenting
+Deploying
+Improving
+```
+
+> Building practical projects today to become a stronger AI and software developer tomorrow.
