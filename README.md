@@ -1,130 +1,70 @@
-Hi, I'm Ayesha 👋
+Hi, I'm Ayesha Mazhar
 
-💻 IT Student | Python & AI/ML Enthusiast | AI Application Developer
+ IT Student | Python | AI & Web developer | Generative AI
 
-I'm passionate about building practical technology solutions using Python, Artificial Intelligence, Machine Learning, and Web Development.
+I'm interested in Artificial Intelligence, Machine Learning, Generative AI, Python, and Web Development.
+Currently learning, building projects, and exploring AI-powered solutions.
 
-I'm currently learning, building projects, participating in hackathons, and exploring how AI can be used to solve real-world problems.
+ Technologies
 
----
+Programming & Web Development
 
-🚀 What I'm Working On
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & AI Applications
-- 🐍 Python Development
-- 🌐 Web Development
-- 📊 Data Analysis & Visualization
-- ⚙️ AI Automation & Chatbots
-- 🏠 AI-powered Real Estate Technology
+Frameworks & Apps
 
----
+"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+"Django" (https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+"Streamlit" (https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-🛠️ Skills & Technologies
+AI & Machine Learning
 
-Programming & Development
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Scikit-learn" (https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+"Hugging Face" (https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Flask
-- Django
-- Streamlit
+Tools
 
-Artificial Intelligence
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- AI Applications
-- AI Chatbot Development
-- AI Automation
-- Regression & Classification
-- Data Analysis
+ Projects
 
-Tools & Platforms
+-  AI Real Estate Price Prediction
+-  Smart AI Traffic Control System
+-  Streamlit Email Extractor
+-  Stock Portfolio Tracker
+-  Customer Churn Prediction
 
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Hugging Face
-- Power BI
-- Microsoft Excel
+ Activities
 
----
+-  Participated in AI & technology hackathons
+-  Built AI and machine learning projects
+-  Collaborated on team-based technology projects
 
-📌 Featured Projects
+ Currently Learning
 
-🏠 AI Real Estate Platform
+Machine Learning → Generative AI → AI Applications → AI Automation
 
-An interactive real-estate web application designed to visualize properties and provide AI-powered price predictions based on factors such as location, size, block, road, facilities, and historical data.
+ Connect With Me
 
-Tech: Python • Machine Learning • Web Development • 3D/Interactive Visualization
+"LinkedIn" [(YOUR_LINKEDIN)](https://www.linkedin.com/in/ayesha-mazhar-6a962a336/) • "Portfolio" (YOUR_PORTFOLIO)
 
-🚦 Smart AI Traffic Control System
-
-A smart traffic management concept using computer vision, traffic prediction, adaptive signals, emergency vehicle prioritization, accident alerts, and data visualization.
-
-Tech: AI • Computer Vision • Machine Learning • Data Visualization
-
-📧 AI Email Extractor
-
-A Streamlit-based application that extracts, validates, and removes duplicate email addresses from text or uploaded content.
-
-Tech: Python • Streamlit • Regular Expressions
-
-📈 Stock Portfolio Tracker
-
-A Python-based project for managing and tracking stock portfolio information and analyzing investment data.
-
-Tech: Python • Data Analysis
-
-📊 Customer Churn Prediction
-
-A machine learning project focused on predicting customer churn using customer-related data and classification techniques.
-
-Tech: Python • Pandas • Scikit-learn • Machine Learning
-
----
-
-🏆 Hackathons & Activities
-
-- 🚀 Participated in technology and AI-focused hackathons
-- 🤖 Worked on Generative AI projects
-- 👥 Collaborated with teams on real-world technology ideas
-- 🎤 Presented projects and contributed to hackathon submissions
-- 🌱 Community engagement through student learning and opportunity sharing
-
----
-
-📚 Currently Learning
-
-Python → Data Analysis → Machine Learning → Generative AI
-                         ↓
-                  AI Applications
-                         ↓
-             Web Apps & AI Automation
-
-I'm continuously improving my programming fundamentals and building projects to turn what I learn into practical applications.
-
----
-
-🎯 My Goal
-
-To become a strong AI/ML and software developer by continuously learning, building real-world projects, contributing to open-source work, and solving meaningful problems with technology.
-
----
-
-🤝 Let's Connect
+ Always learning. Always building.
 
 I'm always interested in:
 
-- 💡 AI & technology projects
-- 🤝 Collaboration
-- 🚀 Hackathons
-- 📚 Learning opportunities
-- 💼 Internships & projects
+-  AI & technology projects
+-  Collaboration
+-  Hackathons
+-  Learning opportunities
+-  Internships & projects
 
 Thanks for visiting my profile! 
