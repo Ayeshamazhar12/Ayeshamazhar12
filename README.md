@@ -22,7 +22,7 @@ My focus is on turning ideas into functional projects — from predictive machin
 
 ### Programming
 
-`Python` `JavaScript` `HTML` `CSS` 'react.js' 'typescript' 
+`Python` `JavaScript` `HTML` `CSS`  'react.js'  'typescript' 
 
 ### AI & Machine Learning
 
