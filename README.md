@@ -22,11 +22,15 @@ My focus is on turning ideas into functional projects — from predictive machin
 
 ### Programming
 
-`Python` `JavaScript` `HTML` `CSS`
+`Python` `JavaScript` `HTML` `CSS` 'react.js' 'typescript' 
 
 ### AI & Machine Learning
 
 `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Joblib`
+
+### Data Science 
+
+'Pandas' 'NumPy' 'Matplotlib' 'Scikit-learn'
 
 ### AI Development
 
@@ -34,11 +38,11 @@ My focus is on turning ideas into functional projects — from predictive machin
 
 ### Frameworks & Tools
 
-`Streamlit` `Flask` `Gradio` `Jupyter Notebook` `Git` `GitHub`
+`Streamlit` `Flask` `Gradio` `Jupyter Notebook` `Git` `GitHub` 'VS code'
 
 ### Deployment
 
-`Hugging Face Spaces` `Streamlit` `GitHub`
+`Hugging Face Spaces` `Streamlit` `GitHub` 'Vercal' 'Netlify'
 
 ---
 
