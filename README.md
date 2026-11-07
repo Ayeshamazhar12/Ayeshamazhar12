@@ -28,21 +28,17 @@ My focus is on turning ideas into functional projects — from predictive machin
 
 `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Joblib`
 
-### Data Science 
-
-'Pandas' 'NumPy' 'Matplotlib' 'Scikit-learn'
-
 ### AI Development
 
 `Generative AI` `LLM APIs` `RAG` `AI Agents` `Prompt Engineering`
 
 ### Frameworks & Tools
 
-`Streamlit` `Flask` `Gradio` `Jupyter Notebook` `Git` `GitHub` 'VS code'
+`Streamlit` `Flask` `Gradio` `Jupyter Notebook` `Git` `GitHub` `VS Code`
 
 ### Deployment
 
-`Hugging Face Spaces` `Streamlit` `GitHub` 'Vercal' 'Netlify'
+`Hugging Face Spaces` `Streamlit` `GitHub` `Vercal` `Netlify`
 
 ---
 
